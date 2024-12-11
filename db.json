@@ -1,31 +1,5 @@
 {
-    "usuarios": [
-      { "nome": "usuario01", "senha": "1", "cpf": "111111111", "email": "usuario1@email.com","dataNasc":"13/10/2000", "tel":"32324040", "cel": "999519645" },
-      { "nome": "usuario02", "senha": "1", "cpf": "111111111", "email": "usuario2@email.com","dataNasc":"13/10/2000", "tel":"32324040", "cel": "999519645" },
-      { "nome": "usuario03", "senha": "1", "cpf": "111111111", "email": "usuario3@email.com","dataNasc":"13/10/2000", "tel":"32324040", "cel": "999519645" },
-      { "nome": "usuario04", "senha": "1", "cpf": "111111111", "email": "usuario4@email.com","dataNasc":"13/10/2000", "tel":"32324040", "cel": "999519645" },
-      { "nome": "usuario05", "senha": "1", "cpf": "111111111", "email": "usuario5@email.com","dataNasc":"13/10/2000", "tel":"32324040", "cel": "999519645" }
-    ],
-    "lojas": [
-      { "cnpj": "11111111222233", "nome": "loja1", "email": "loja1@gmail.com", "tel":"32324040", "cel":"999519645","datCriancao":"13/04/2010", "logradouro":"fluminense","numero":"2023","complemento": "campeao", "bairro": "botafogo","cidade":"Rio de janeiro", "estado":"Rj","cep":"11111222"},
-      { "cnpj": "11111111222244", "nome": "loja2", "email": "loja2@gmail.com", "tel":"32324040", "cel":"999519645","datCriancao":"13/04/2010", "logradouro":"fluminense","numero":"2012","complemento": "campeao", "bairro": "botafogo","cidade":"Rio de janeiro", "estado":"Rj","cep":"11111222"},
-      { "cnpj": "11111111222255", "nome": "loja3", "email": "loja3@gmail.com", "tel":"32324040", "cel":"999519645","datCriancao":"13/04/2010", "logradouro":"fluminense","numero":"2010","complemento": "campeao", "bairro": "botafogo","cidade":"Rio de janeiro", "estado":"Rj","cep":"11111222"},
-      { "cnpj": "11111111222266", "nome": "loja4", "email": "loja4@gmail.com", "tel":"32324040", "cel":"999519645","datCriancao":"13/04/2010", "logradouro":"fluminense","numero":"2024","complemento": "campeao", "bairro": "botafogo","cidade":"Rio de janeiro", "estado":"Rj","cep":"11111222"}
-    ],
-    "servicos": [
-      { "id": "1", "nome": "Corte", "duracao": "30", "preco": 20.00, "comissao": 0.70, "desconto":0.10},
-      { "id": "2", "nome": "Aplicação tintura", "duracao": "90", "preco": 20.00, "comissao": 0.70, "desconto":0.10},
-      { "id": "3", "nome": "mao", "duracao": "30", "preco": 20.00, "comissao": 0.70, "desconto":0.10},
-      { "id": "4", "nome": "pe", "duracao": "30", "preco": 17.00, "comissao": 0.70, "desconto":0.10 },
-      { "id": "5", "nome": "luzes", "duracao": "30", "preco": 20.00, "comissao": 0.70, "desconto":0.10}
-    ],
-    "funcionario": [
-      { "idUssuarios":"111111111", "idFuncionario": "111111111","cargo": "manicure"},
-      { "idUssuarios":"111111111", "idFuncionario": "111111111", "cargo":"manicure" },
-      { "idUssuarios":"111111111", "idFuncionario": "111111111", "cargo":"manicure"},
-      { "idUssuarios":"111111111", "idFuncionario": "111111111", "cargo":"cabelereiro" },
-      { "idUssuarios":"111111111", "idFuncionario": "111111111", "cargo":"cabelereiro" }
-    ],
+
     "produtos":[
       {"id":"123456","nome":"tinta preta"}
     ]
