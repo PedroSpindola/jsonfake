@@ -2,5 +2,13 @@
 
     "produtos":[
       {"id":"123456","nome":"tinta preta","valorvenda":"30,00", "quantidade":"5","dataValidade":"03/12/2024"}
+    ],
+
+    "servico":[
+        {"id":"123456","nome":"corte feminino","duracao":"30","preco": "45,00"}
+    ],
+    "fornecedor":[
+        
+        {"id":"98765","nome":"claudemar","telefone":"32324040","celular":"999999999","dtaNasc":"10/10/2000"}
     ]
   }
