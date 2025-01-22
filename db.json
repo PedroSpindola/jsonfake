@@ -15,7 +15,7 @@
         {"id":"98565","nome":"edvan","telefone":"32323030","celular":"999999988","dtaNasc":"10/11/2000"}
     ],
     "funcionario":[
-        {"cpf":"00011122233","nome":"jurema","telefone":"32403240","celular": "988888888","dtaNasc":"13/01/1999"},
-        {"cpf":"00011122244","nome":"edylaine","telefone":"32403255","celular": "988998888","dtaNasc":"20/07/1999"}
+        {"id":"1","cpf":"00011122233","nome":"jurema","telefone":"32403240","celular": "988888888","dtaNasc":"13/01/1999","email":"jurema@gmail.com","senha":"1234"},
+        {"id":"1","cpf":"00011122244","nome":"edylaine","telefone":"32403255","celular": "988998888","dtaNasc":"20/07/1999","email":"edylaine@gmail.com","senha":"4321"}
     ]
   }
