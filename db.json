@@ -16,6 +16,6 @@
     ],
     "funcionario":[
         {"id":"1","cpf":"00011122233","nome":"jurema","telefone":"32403240","celular": "988888888","dtaNasc":"13/01/1999","email":"jurema@gmail.com","senha":"1234","cargo":"cabeleireira"},
-        {"id":"1","cpf":"00011122244","nome":"edylaine","telefone":"32403255","celular": "988998888","dtaNasc":"20/07/1999","email":"edylaine@gmail.com","senha":"4321","cargo":"manicure"}
+        {"id":"2","cpf":"00011122244","nome":"edylaine","telefone":"32403255","celular": "988998888","dtaNasc":"20/07/1999","email":"edylaine@gmail.com","senha":"4321","cargo":"manicure"}
     ]
   }
