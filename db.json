@@ -1,8 +1,8 @@
 {
 
     "produtos":[
-      {"id":"123456","nome":"tinta preta","valorvenda":"30,00", "quantidade":"5","dataValidade":"03/12/2024","fornecedor":"claudemar"},
-      {"id":"123465","nome":"tinta rosa","valorvenda":"35,00", "quantidade":"10","dataValidade":"02/12/2024","fornecedor":"edvan"}
+      {"id":"123456","nome":"tinta preta","valorvenda":"30,00", "quantidade":"5","dataValidade":"03/12/2024","fornecedor":"claudemar","loja": "BLZ+"},
+      {"id":"123465","nome":"tinta rosa","valorvenda":"35,00", "quantidade":"10","dataValidade":"02/12/2024","fornecedor":"edvan", "loja": "HairPlus"}
     ],
 
     "servico":[
