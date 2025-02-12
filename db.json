@@ -11,8 +11,8 @@
     ],
     "fornecedor":[
         
-        {"id":"98765","nome":"claudemar","telefone":"32324040","celular":"999999999","dtaNasc":"10/10/2000","email":"claudemar@gmail.com"},
-        {"id":"98565","nome":"edvan","telefone":"32323030","celular":"999999988","dtaNasc":"10/11/2000","email":"edvan@gmail.com"}
+        {"id":"98765","CNPJ":"38158349000129","nome":"TintasLTDA","telefone":"32324040","celular":"999999999","produtoFornecido":"Tinta","email":"tintas@gmail.com"},
+        {"id":"98565","CNPJ":"16631033000170","nome":"Esmaltes LTDA","telefone":"32323030","celular":"999999988","produtoFornecido":"Esmalte","email":"esmalte@gmail.com"}
     ],
     "funcionario":[
         {"id":"1","cpf":"00011122233","nome":"jurema","telefone":"32403240","celular": "988888888","dtaNasc":"13/01/1999","email":"jurema@gmail.com","senha":"1234","cargo":"cabeleireira", "loja": "SalonLane"},
